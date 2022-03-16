@@ -180,7 +180,8 @@ section #button-mobile img {
   margin-left: auto;
   margin-right: auto;
   width: 100%;
-  
+  position: relative;
+  bottom: -5rem;
 }
 
 /* MEDIA 820PX ========================= */
@@ -243,7 +244,7 @@ section #button-mobile img {
   nav ul {
     display: block;
     position: absolute;
-    top: 5rem;
+    top: 3.8rem;
     left: -100%;
 
     background-color: var(--backgrond);
