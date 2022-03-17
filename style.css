@@ -311,14 +311,15 @@ section #button-mobile img {
 
   .blur-coffee #rocket-coffee{
     position: absolute;
-    bottom: -5rem;
+    bottom: 0;
     left: 0;
+ 
    
   }
   
   #blur-mobile {
     position: absolute;
-    bottom: -5rem;
+    bottom: 0;
     left: 0;
   }
 
